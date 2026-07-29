@@ -1,8 +1,6 @@
 <h1 align="center">Yo! I’m Paul</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
-<br>
-
 ## Stack
 
 <div align="center">
