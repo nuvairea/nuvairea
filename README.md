@@ -25,8 +25,8 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=Paul&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="github stats" /></td>
-      <td><img src="https://streak-stats.demolab.com?user=Paul&theme=github_dark&hide_border=true" alt="streak stats" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=paulspective&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="github stats" /></td>
+      <td><img src="https://streak-stats.demolab.com?user=paulspective&theme=github_dark&hide_border=true" alt="streak stats" /></td>
     </tr>
   </table>
 </div>
