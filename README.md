@@ -1,5 +1,6 @@
-<h1 align="center">Yo! I’m Paul</h1>
-<h3 align="center">Full-Stack Developer</h3>
+<h1 align="center">Yo, I’m Paul</h1>
+<h3 align=center>Fullstack Developer</h3>
+<h4 align="center">I build web apps and occasionally spend way too much time playing racing games.</h4>
 
 ## Stack
 
