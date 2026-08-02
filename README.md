@@ -26,7 +26,7 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://streak-stats.demolab.com?user=paulspective&theme=github_dark&hide_border=true" alt="streak stats" /></td>
+      <td><img src="https://streak-stats.demolab.com?user=nuvairea&theme=github_dark&hide_border=true" alt="streak stats" /></td>
     </tr>
   </table>
 </div>
